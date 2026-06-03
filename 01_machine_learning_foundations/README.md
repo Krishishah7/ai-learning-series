@@ -6,28 +6,59 @@ This section covers the fundamental concepts of Machine Learning, focusing on bu
 
 ## 🎯 Objective
 
-To understand the core principles of Machine Learning and implement basic algorithms step-by-step with clear intuition.
+To understand the core principles of Machine Learning and implement foundational algorithms, evaluation techniques, preprocessing methods, dimensionality reduction techniques, and clustering algorithms through hands-on practice.
 
 ---
 
 ## 📂 Topics Covered
 
+### Supervised Learning
+
 * Linear Regression
 * Logistic Regression
 * K-Nearest Neighbors (KNN)
 * Decision Trees
-* Model Evaluation Metrics
+
+### Model Evaluation
+
+* Train-Test Split
+* Cross Validation
+* Accuracy Score
+* Mean Squared Error (MSE)
+* Model Performance Analysis
+
+### Data Preprocessing
+
+* Feature Scaling
+* Standardization
+* Data Preparation
+
+### Model Improvement
+
 * Bias-Variance Tradeoff
-* Data Preprocessing & Feature Scaling
+* Feature Selection
+* Machine Learning Pipelines
+
+### Dimensionality Reduction
+
+* Principal Component Analysis (PCA)
+* Explained Variance Analysis
+* PCA-Based Classification Comparison
+
+### Unsupervised Learning
+
+* K-Means Clustering
+* Elbow Method for Optimal Cluster Selection
 
 ---
 
 ## 🧠 Approach
 
-* Start with simple concepts
-* Visualize data and model behavior
-* Focus on understanding rather than memorizing
-* Build implementations step-by-step
+* Learn concepts through intuition and visualization
+* Understand the mathematics behind model behavior
+* Implement algorithms using scikit-learn
+* Compare models and evaluate performance
+* Focus on practical understanding rather than memorization
 
 ---
 
@@ -41,17 +72,44 @@ To understand the core principles of Machine Learning and implement basic algori
 
 ---
 
-## 📈 Learning Outcome
+## 📈 Learning Outcomes
 
-By the end of this section, you will:
+By completing this section, you will be able to:
 
-* Understand how basic ML algorithms work
-* Be able to implement simple models
-* Interpret model results and performance
-* Build a strong foundation for advanced AI topics
+* Understand core Machine Learning concepts
+* Build and evaluate supervised learning models
+* Apply preprocessing and feature engineering techniques
+* Reduce dimensionality using PCA
+* Perform clustering using K-Means
+* Select optimal model parameters using evaluation techniques
+* Develop a strong foundation for Deep Learning and advanced AI topics
+
+---
+
+## 🚀 Progress
+
+Current Coverage:
+
+✅ Regression Algorithms
+
+✅ Classification Algorithms
+
+✅ Model Evaluation Techniques
+
+✅ Data Preprocessing
+
+✅ Feature Engineering
+
+✅ PCA & Dimensionality Reduction
+
+✅ K-Means Clustering
+
+✅ Cluster Optimization using Elbow Method
+
+More topics will be added as the AI Learning Series progresses.
 
 ---
 
 ## 🚀 Note
 
-This is the starting point of the AI journey. Strong fundamentals here will make advanced topics like Deep Learning and AI systems much easier to understand.
+This section forms the foundation of the entire AI Learning Series. A strong understanding of these concepts makes advanced topics such as Deep Learning, NLP, Computer Vision, and AI Systems significantly easier to learn and implement.
