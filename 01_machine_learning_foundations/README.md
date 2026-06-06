@@ -30,6 +30,7 @@ To understand the core principles of Machine Learning and implement foundational
 ### Data Preprocessing
 
 * Feature Scaling
+* Feature Selection
 * Standardization
 * Data Preparation
 
