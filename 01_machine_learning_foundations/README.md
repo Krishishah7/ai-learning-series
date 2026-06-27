@@ -6,7 +6,7 @@ This section covers the fundamental concepts of Machine Learning, focusing on bu
 
 ## 🎯 Objective
 
-To understand the core principles of Machine Learning and implement foundational algorithms, evaluation techniques, preprocessing methods, dimensionality reduction techniques, and clustering algorithms through hands-on practice.
+To understand the core principles of Machine Learning and implement foundational algorithms, preprocessing techniques, model evaluation methods, dimensionality reduction, clustering, and practical machine learning workflows through hands-on practice.
 
 ---
 
@@ -18,26 +18,42 @@ To understand the core principles of Machine Learning and implement foundational
 * Logistic Regression
 * K-Nearest Neighbors (KNN)
 * Decision Trees
-
+* Random Forest
+* Support Vector Machine (SVM)
+* Naive Bayes
+* Ensemble Learning (AdaBoost & Gradient Boosting)
+  
 ### Model Evaluation
 
 * Train-Test Split
 * Cross Validation
-* Accuracy Score
-* Mean Squared Error (MSE)
-* Model Performance Analysis
+* Confusion Matrix
+* Classification Report
+* ROC-AUC Analysis
+* Regression Metrics (MAE, MSE, RMSE, R²)
+* Learning Curves
+* Model Comparison
+* Classification & Regression Dashboards
 
 ### Data Preprocessing
 
 * Feature Scaling
 * Standardization
+* Feature Engineering
 * Data Preparation
 
 ### Model Improvement
 
 * Bias-Variance Tradeoff
 * Feature Selection
+* Hyperparameter Tuning (GridSearchCV)
 * Machine Learning Pipelines
+
+### Model Deployment Preparation
+
+* Model Persistence using Joblib
+* Prediction on New Data
+* End-to-End Machine Learning Workflow
 
 ### Dimensionality Reduction
 
@@ -83,6 +99,7 @@ By completing this section, you will be able to:
 * Perform clustering using K-Means
 * Select optimal model parameters using evaluation techniques
 * Develop a strong foundation for Deep Learning and advanced AI topics
+* Build complete end-to-end Machine Learning workflows ready for deployment
 
 ---
 
@@ -90,23 +107,24 @@ By completing this section, you will be able to:
 
 Current Coverage:
 
-✅ Regression Algorithms
+✅ Supervised Learning
 
-✅ Classification Algorithms
-
-✅ Model Evaluation Techniques
+✅ Model Evaluation & Comparison
 
 ✅ Data Preprocessing
 
 ✅ Feature Engineering
 
-✅ PCA & Dimensionality Reduction
+✅ Dimensionality Reduction
 
-✅ K-Means Clustering
+✅ Unsupervised Learning
 
-✅ Cluster Optimization using Elbow Method
+✅ Model Optimization
 
-More topics will be added as the AI Learning Series progresses.
+✅ Model Deployment Preparation
+
+✅ End-to-End Machine Learning Workflow
+
 
 ---
 
