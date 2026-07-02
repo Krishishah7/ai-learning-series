@@ -6,7 +6,7 @@ This section introduces the fundamental concepts of Deep Learning, focusing on b
 
 ## 🎯 Objective
 
-To understand the core principles of Deep Learning and implement foundational neural network concepts step-by-step with clear intuition.
+To understand the core principles of Deep Learning and implement the fundamental concepts behind neural networks, including how they make predictions, measure errors, and learn from data through hands-on implementations.
 
 ---
 
